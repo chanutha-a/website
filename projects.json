@@ -10,5 +10,13 @@
     {
         "name": "TBC",
         "description": "TBC"
+    },
+    {
+        "name": "RussianRoulette",
+        "description": "It is a game of simple Russian Roulette with a twist to make it more realistic....Taking 1 life to a new level"
+    },
+    {
+        "name": "CoinFlip",
+        "description": "Hear me out, most coin flip bets dont have much on the line, jus wast till you try this one...."
     }
 ]
